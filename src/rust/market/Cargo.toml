@@ -1,0 +1,29 @@
+
+[package]
+name = "neroverse-market"
+version = "0.0.1"
+description = "Neroverse Market Program"
+authors = ["GamePower Network Developers <dev@gamepower.network>"]
+repository = "https://github.com/GamePowerNetwork/neroverse"
+license = "Apache-2.0"
+homepage = "https://neroverse.com/"
+edition = "2018"
+
+[features]
+no-entrypoint = []
+
+[dependencies]
+borsh = "0.9.1"
+borsh-derive = "0.9.1"
+solana-program = "=1.7.9"
+thiserror = "1.0.24"
+spl-token = {version = "3.1.1", features = ["no-entrypoint"]}
+arrayref = "0.3.6"
+
+[dev-dependencies]
+solana-program-test = "=1.7.9"
+solana-sdk = "=1.7.9"
+
+[lib]
+name = "market"
+crate-type = ["cdylib", "lib"]

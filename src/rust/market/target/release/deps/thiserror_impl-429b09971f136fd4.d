@@ -1,0 +1,12 @@
+/workspaces/gamepower-solana/src/rust/market/target/release/deps/libthiserror_impl-429b09971f136fd4.so: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/ast.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/attr.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/expand.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/fmt.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/generics.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/prop.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/valid.rs
+
+/workspaces/gamepower-solana/src/rust/market/target/release/deps/thiserror_impl-429b09971f136fd4.d: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/ast.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/attr.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/expand.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/fmt.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/generics.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/prop.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/valid.rs
+
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/lib.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/ast.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/attr.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/expand.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/fmt.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/generics.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/prop.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/valid.rs:
